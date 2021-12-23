@@ -19,7 +19,7 @@ tags:
 ### 1、忽略大版本更新
 
 ```javascript
-sudo softwareupdate --ignore "此处填系统大版本名称"
+sudo softwareupdate --ignore "此处填系统大版本名称1"
 // 例：
 sudo softwareupdate --ignore "macOS Catalina"
 // 输入命令后按回车，会提示输入开机密码(输入密码时，不会显示你输入的密码)。
