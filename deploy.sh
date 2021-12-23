@@ -8,7 +8,7 @@ set -e
 # 将代码发到master分支
 git add .
 git commit -m "update"
-git push origin master
+git push -f origin master
 
 # 生成静态文件
 npm run build
