@@ -30,7 +30,7 @@ module.exports = {
     // 最后更新于文案
     lastUpdated: '最后更新于',
     // 对应的github链接地址
-    repo: 'dxsixpc/dxsixpc.github.io',
+    repo: 'yifeichong/yifeichong.github.io',
     // 是否开启编辑此页面链接跳转到对应的github地址
     editLinks: true,
     // 编辑此页面链接文案
